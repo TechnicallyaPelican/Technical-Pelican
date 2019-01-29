@@ -1,0 +1,9 @@
+vsp = 0;
+grv = 0.3;
+walksp = 2;
+hsp=walksp;
+hp=6;
+hitfrom=0;
+left=180;
+right=360;
+done=0;
